@@ -1,6 +1,6 @@
 # R3verse zsh theme
 A  theme for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
-for everyone who love **linux**
+for everyone who loves **Linux**
 
 ## Introducion
 ![Image](https://raw.githubusercontent.com/Itsnexn/R3vers-zsh-theme/main/terminal-window.png)
