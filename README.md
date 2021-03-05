@@ -3,7 +3,7 @@ A  theme for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 for everyone who loves **Linux**
 
 ## Introducion
-![Image](https://raw.githubusercontent.com/Itsnexn/R3vers-zsh-theme/main/preview.png)
+![Image](https://raw.githubusercontent.com/Itsnexn/R3verse-zsh-theme/main/Preview.png)
 - Show Git status
 - show username and machine name
 ## Install
