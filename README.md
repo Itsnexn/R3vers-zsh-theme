@@ -12,7 +12,7 @@ First download or clone repository
 git clone https://github.com/Itsnexn/R3vers-zsh-theme.git
 cd R3vers-zsh-theme
 #move or copy theme file to ~/.oh-my-zsh/themes
-mv R3verse.zsh-theme ~/.oh-my-zsh
+mv R3verse.zsh-theme ~/.oh-my-zsh/themes
 ```
 After that edit `~/.zshrc` file :
 ```
